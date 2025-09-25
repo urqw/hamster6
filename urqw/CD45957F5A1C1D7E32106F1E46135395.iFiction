@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>CD45957F5A1C1D7E32106F1E46135395</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 6: В роще</title>
+			<author>Apromix и Simple</author>
+			<language>ru</language>
+			<firstpublished>2012-06-06</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - хомяк по кличке Семён. Если вы прошли предыдущие игры серии, то должны помнить, что вас коварно заточили в клетку, но вам удалось вырваться на свободу и покинуть дом и двор, перемахнув через забор. Но и здесь злопамятный кот не оставил Вас в покое. В конце-концов Вам удалось обмануть кота и убежать от него в рощу. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>6</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster6</url>
+			<authoremail>simpleurq@mail.ru, apromix@mail.ru, bees@meta.ua</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
